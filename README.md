@@ -23,6 +23,7 @@
 <br />
 
 ---
+THIS FORK UPDATED NESTJS PEER DEPENDENCIES TO v8.0.0
 
 ## Description
 
